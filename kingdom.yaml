@@ -1,0 +1,8 @@
+name: truth
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The first force of the soul that asks whether a thing is really so.
+dependsOn: [me, love, courage]
